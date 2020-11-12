@@ -4,3 +4,5 @@ print('ciao')
 #destro sul progetto --> git--> add
 print('mik')
 print('come va')
+x = 2
+y = 3
