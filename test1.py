@@ -6,3 +6,5 @@ print('mik')
 print('come va')
 x = 2
 y = 3
+
+print('ciao ciao')
